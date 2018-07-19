@@ -7,6 +7,13 @@
 		<span itemprop="brand">{{site.data.settings.client.brand}}</span><br>
 		<span itemprop="branchof">{{site.data.settings.client.brokerage}}</span><br>
 	          <span itemprop="address">{{site.data.settings.client.address}}</span><br>
+	          
+					{% if site.data.settings.client.phone2 != null %}
+					{{ site.data.settings.client.phone_type }}: <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone }}</a><br />
+					{{ site.data.settings.client.phone2_type }}: <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{ site.data.settings.client.phone2 }}</a><br />
+					{% else %}
+	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a>
+					{% endif %}	          
 
 	        <a href="tel:{{site.data.settings.client.phone | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone}}</a><br>
 	        <a href="tel:{{site.data.settings.client.phone2 | prepend: "1-"}}" itemprop="telephone">{{site.data.settings.client.phone2}}</a><br>
