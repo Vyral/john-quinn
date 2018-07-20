@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/team-vs-solo-agent-youtube.jpg
+youtube_alternate_image: /uploads/team-vs-solo-agent-youtube-02.jpg
 youtube_code: jx4gwts5UyU
 ---
 
