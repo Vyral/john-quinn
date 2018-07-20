@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are the Advantages of Hiring a Team Over an Independent Agent?
-date: 2018-07-17 15:23:24
+date: 2018-07-17 15:23:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/team-vs-solo-agent-youtube.jpg
-youtube_code: Ut6aP2lLC9I
+youtube_code: jx4gwts5UyU
 ---
 
 {% include youtube.html %}
