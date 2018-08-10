@@ -19,4 +19,4 @@ youtube_code: dwFcTr2VTc4
 
 {% include youtube.html %}
 
-Do you want to sell your home without the hassle of listing it? Even with our market as incredibly busy as it is, our new program makes this possible. All we’d have to do is come see what your home is worth and then we can help you find a buyer from our pool of hundreds of potential home buyers who are currently looking. The best part is that it can be done immediately or with flexible terms. To learn all about this new program, watch my video.
+Do you want to sell your home without the hassle of listing it? Even with our market as incredibly busy as it is, our new program makes this possible. All we’d have to do is come see what your home is worth and then we can help you find a buyer from our pool of hundreds of potential homebuyers who are currently looking. The best part is that it can be done immediately or with flexible terms. To learn all about this new program, watch my video.
