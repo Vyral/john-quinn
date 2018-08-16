@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Home Inspections Necessary for Homebuyers?
-date: 2018-08-15 21:30:02
+date: 2018-08-15 21:30:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/home-inspections-youtube.jpg
-youtube_code: BWpypB9K-qs
+youtube_code: 55gPBlqI_bg
 ---
 
 {% include youtube.html %}
