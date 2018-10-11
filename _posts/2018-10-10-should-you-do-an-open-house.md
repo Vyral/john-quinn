@@ -31,4 +31,4 @@ Of course, there are also advantages to having an open house. **You could get so
 
 Ultimately, having an open house is going to be your personal decision. We have found that open houses near busy roads get more attention than those homes located on long, deep neighborhood streets. Either way, though, you will get more exposure by holding an open house.
 
-If you have any additional questions about open houses, or if you're interested in buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
+If you have any additional questions about open houses or if you're interested in buying or selling, please feel free to reach out to me. I look forward to speaking with you soon.
