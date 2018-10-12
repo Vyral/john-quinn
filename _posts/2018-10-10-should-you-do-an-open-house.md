@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Do an Open House?
-date: 2018-10-10 15:50:46
+date: 2018-10-10 15:50:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/open-house-youtube.jpg
-youtube_code: E9X3GBRKQa0
+youtube_code: qj9hPBRwrHw
 ---
 
 {% include youtube.html %}
