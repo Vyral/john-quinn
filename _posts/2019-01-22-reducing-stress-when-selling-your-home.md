@@ -33,6 +33,6 @@ Also, **do your best to allow showings to happen when your agent wants to schedu
 
 One of the biggest stress triggers for home sellers is the thought that they might not have their next house lined up after they sell their current one, so it’s very important that you **have all your financing in place** to make sure you transition seamlessly from one home to the next.
 
-Ultimately, just remember that it’s going to be okay. Everything will work out as planned. If you need an agent to help you through this process, keep in mind that in our 30 years in the business, we’ve never once left a client with nowhere to live afterwards.
+Ultimately, just remember that it’s going to be okay. Everything will work out as planned. If you need an agent to help you through this process, keep in mind that in our 30 years in the business, we’ve never once left a client with nowhere to live afterward.
 
 If you have any more questions about how to make the home selling process easier on you or you have any other real estate needs, feel free to call or email me. I’d be happy to help you.
