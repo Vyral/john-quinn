@@ -21,6 +21,6 @@ youtube_code: N_q2m3unMOY
 
 {% include youtube.html %}
 
-In a very active market like the one we’re in now, if you price your home competitively in the market, buyers will actually bid your house up. So if you’re concerned about underselling the house, consult with your Realtor about the best price to list your home at in the current market—when you list your home with an experienced Realtor, your home should receive excellent exposure. If buyers think that your home is a few thousand dollars under market, they’ll beat a path to your door, and when they see that other people are also flocking to your house, they’ll bid up on it.
+In a very active market like the one we’re in now, if you price your home competitively, buyers will actually bid your house up. So if you’re concerned about underselling the house, consult with your Realtor about the best price to list your home at in the current market—when you list your home with an experienced Realtor, your home should receive excellent exposure. If buyers think that your home is a few thousand dollars under market value, they’ll beat a path to your door. When they see that other people are also flocking to your house, they’ll bid up on it.
 
-Hopefully this will help you see that aggressively pricing your home is much more profitable than overpricing it. If you have any questions or need my services, please don’t hesitate to reach out to me.
+Hopefully, this will help you see that aggressively pricing your home is much more profitable than overpricing it. If you have any questions or need my services, please don’t hesitate to reach out to me.
