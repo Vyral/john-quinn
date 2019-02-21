@@ -25,7 +25,7 @@ This also gives the buyer enough time to get things switched over into their nam
 
 {% include pullquote.html %}
 
-Remember to resolve services outside of your utilities, such as cable, internet, and landline phones. Either end them or have them transferred to your new home.
+Remember to resolve services outside of your utilities, such as cable, internet, and landline phones. You should either end them or have them transferred to your new home.
 
 Have all the arrangements taken care of before moving into your new home so you—like the buyer of your previous home—aren’t left without power.
 
