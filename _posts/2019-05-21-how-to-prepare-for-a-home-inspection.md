@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prepare for a Home Inspection
-date: 2019-05-21 17:28:25
+date: 2019-05-21 17:28:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -33,7 +33,7 @@ The fewer things they find, the better the buyer will feel about purchasing your
 
 **3\. Repair the exterior.** Take a walk around the perimeter of your home, keeping an eye out for rotting wood and peeling paint. Get these items repaired and repainted.
 
-**4\. Check your faucets.** Turn the faucets in your kitchen, bathrooms, etc. on and off to see if the water starts and stops correctly. Do they stop automatically or do they drip a lot? If the latter happens, you may want to replace some washers. If the inspector finds it, they’ll be asking you to hire an expensive plumber to fix it.
+**4\. Check your faucets.** Turn the faucets in your kitchen, bathrooms, etc., on and off to see if the water starts and stops correctly. Do they stop automatically or do they drip a lot? If the latter happens, you may want to replace some washers. If the inspector finds it, they’ll be asking you to hire an expensive plumber to fix it.
 
 **5\. Test and check your outlets.** Some power outlets might need to be changed, depending on their condition. If there are burn marks anywhere on the outlet, it’s a very good idea to replace it.
 
