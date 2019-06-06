@@ -23,7 +23,7 @@ I’ve been running the Guaranteed Sale Program in Memphis for approximately 20 
 
 **Everyone has different reasons why they want to sell their home, as well as different time frames in which they want to have it done.** For obvious reasons, sellers want to be sure they’ll have a successful transaction.
 
-Here at RE/MAX Experts, we use the most advanced marketing systems and tools at our disposal to make sure your home will sell for top dollar. And when you may not need top dollar, but you do need to make sure that your home sells in a given amount of time, we’ve got you covered.
+John Quinn uses the most advanced marketing systems and tools at our disposal to make sure your home will sell for top dollar. And when you may not need top dollar, but you do need to make sure that your home sells in a given amount of time, we’ve got you covered.
 
 {% include pullquote.html %}
 
@@ -35,4 +35,4 @@ In addition, I’ll also let you know what I would be willing to pay for your ho
 
 So ultimately, we can guarantee that if a buyer doesn’t purchase your home, we definitely can. Either way, your home will be sold.
 
-If that sounds good to you, don’t hesitate to reach out to me. Let’s help you reach your real estate goals.
+If that sounds good to you, don’t hesitate to reach out to me. Call us today at [(901) 591-8100](tel:901-591-8100){: target="_blank"}\! Let’s help you reach your real estate goals.
