@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/home-sale-guarantee-youtube.jpg
-youtube_code: 0xm5bMYy9dk
+youtube_code: XUK9deaKPw4
 ---
 
 {% include youtube.html %}
