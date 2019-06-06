@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Guarantee We Can Sell Your House
-date: 2019-06-04 16:22:51
+date: 2019-06-04 16:22:00
 tags:
   - Home Seller Tips
 excerpt: Can we guarantee that your home will sell? The answer? Absolutely!
@@ -19,17 +19,17 @@ youtube_code: 0xm5bMYy9dk
 
 {% include youtube.html %}
 
-I’ve been running the Guaranteed Sales Program in Memphis for approximately 20 years, so when people ask if I can guarantee their home will be sold, I tell them, “Absolutely\!”
+I’ve been running the Guaranteed Sale Program in Memphis for approximately 20 years, so when people ask if I can guarantee their home will be sold, I tell them, “Absolutely\!”
 
-**Everyone has different reasons why they want to sell their home, as well as different time frames in which they want to have it done,** so for obvious reasons, sellers want to be sure they’ll have a successful transaction.
+**Everyone has different reasons why they want to sell their home, as well as different time frames in which they want to have it done.** For obvious reasons, sellers want to be sure they’ll have a successful transaction.
 
 Here at RE/MAX Experts, we use the most advanced marketing systems and tools at our disposal to make sure your home will sell for top dollar. And when you may not need top dollar, but you do need to make sure that your home sells in a given amount of time, we’ve got you covered.
 
 {% include pullquote.html %}
 
-**So how does the Guaranteed Sales Program work?**
+**So how does the Guaranteed Sale Program work?**
 
-When you’re enrolled in the Guaranteed Sales Program, we’ll start by coming out to your home for a comparative market analysis, where we’ll let you know what your home’s market value is—in other words, what people would be willing to pay for your house once it goes live on the market.
+When you’re enrolled in the Guaranteed Sale Program, we’ll start by coming out to your home for a comparative market analysis, where we’ll let you know what your home’s market value is—in other words, what people would be willing to pay for your house once it goes live on the market.
 
 In addition, I’ll also let you know what I would be willing to pay for your house—I do buy houses on a very regular basis, and I pay with cash so that you can move to your new home. Quite frankly, there is a little bit of a discount on the house because once I pay for your home with cash, I’ll put it back on the market and sell it myself.
 
