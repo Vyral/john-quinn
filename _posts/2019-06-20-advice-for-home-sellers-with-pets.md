@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advice for Home Sellers With Pets
-date: 2019-06-20 18:03:02
+date: 2019-06-20 18:03:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: vJhFpDKI18A
 
 {% include youtube.html %}
 
-One of the biggest concerns of pet owners when it comes time to sell their house is what to do with their animal companions during the process.
+One of the biggest concerns of pet owners when it comes time to sell their houses is what to do with their animal companions during the process.
 
 Some homebuyers in the market don’t mind that you have a cat or dog, but **there are also those who could be highly allergic to, afraid of, or just generally averse to pets.** I once walked a client through a home she was interested in; once she saw the homeowner’s cat, she froze and had to be escorted from the house. You really don’t want to lose out on a sale because a buyer is afraid to go into your house\!
 
