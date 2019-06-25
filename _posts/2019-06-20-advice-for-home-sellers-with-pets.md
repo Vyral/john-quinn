@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/selling-with-pets-youtube.jpg
-youtube_code: vJhFpDKI18A
+youtube_code: FjP6JowniS4
 ---
 
 {% include youtube.html %}
