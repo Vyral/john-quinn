@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Reasons to Sell Your Home in 2019
-date: 2019-08-15 20:29:22
+date: 2019-08-15 20:29:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -10,8 +10,8 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/Memphis+Real+Estate-+5+Reasons+to+Sell+Your+Home+in+2019.mp4
 pullquote: >-
-  The heavy for housing demand we’re seeing is thanks in no small part to this
-  wave of millennial buyers.
+  The heavy housing demand we’re seeing is thanks in no small part to this wave
+  of millennial buyers.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -31,6 +31,6 @@ If selling your home has been on your mind, there’s no time like the present. 
 
 **4\. Mortgage rates are low.&nbsp;**
 
-**5\. Millennials are flooding the market.** The heavy for housing demand we’re seeing is thanks in no small part to this wave of millennial buyers.&nbsp;
+**5\. Millennials are flooding the market.** The heavy housing demand we’re seeing is thanks in no small part to this wave of millennial buyers.&nbsp;
 
 We have no idea what’s to come in 2020, so don’t let the opportunity to get the most out of the market this year pass you by\! If you have any real estate-related questions or would like more information, please give me a call at 901-591-8100. I look forward to hearing from you\!&nbsp;
