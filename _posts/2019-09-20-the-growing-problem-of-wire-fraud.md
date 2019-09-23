@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Growing Problem of Wire Fraud
-date: 2019-09-20 16:33:09
+date: 2019-09-20 16:33:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/wire-fraud-youtube.jpg
-youtube_code: UJh3UsvC9Fs
+youtube_code: GnM_dUDasIc
 ---
 
 {% include youtube.html %}
