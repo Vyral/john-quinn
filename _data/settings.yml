@@ -35,9 +35,9 @@ client:
   url: 'https://www.johnquinnteam.com'
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: 'https://www.johnquinnrealestate.com/sellers/whats-my-home-worth//'
+  first_CTA_URL: 'https://www.johnquinnteam.com/sellers/whats-my-home-worth/'
   second_CTA_text: Home Search
-  second_CTA_URL: 'https://www.johnquinnrealestate.com/buyers/personalized-home-search/'
+  second_CTA_URL: 'https://www.johnquinnteam.com/communities/'
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: What’s Your -- MARKET -- Home Worth?
