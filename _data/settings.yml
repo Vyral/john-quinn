@@ -31,8 +31,8 @@ client:
   phone_type: Direct
   phone2: 901-685-6000
   phone2_type: Main
-  email: john@johnquinnrealestate.com
-  url: 'https://www.johnquinnrealestate.com'
+  email: john@johnquinnteam.com
+  url: 'https://www.johnquinnteam.com'
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: 'https://www.johnquinnrealestate.com/sellers/whats-my-home-worth//'
