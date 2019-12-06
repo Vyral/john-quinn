@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Separates Good Real Estate Teams From Bad Ones
-date: 2019-11-08 00:00:00
+date: 2019-12-05 00:00:00
 tags:
   - Real Estate
 excerpt: >-
