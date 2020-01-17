@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Is an “As Is” Home Sale a Good Idea?
-date: 2020-01-16 19:29:34
+title: Is an 'As Is' Home Sale a Good Idea?
+date: 2020-01-16 19:29:00
 tags:
   - Home Seller Tips
 excerpt: >-
