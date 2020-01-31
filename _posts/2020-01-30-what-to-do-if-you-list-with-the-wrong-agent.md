@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to Do If You List With the Wrong Agent
+title: What to Do if You List With the Wrong Agent
 date: 2020-01-30 23:33:00
 tags:
   - Home Seller Tips
