@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Do If You List With the Wrong Agent
-date: 2020-01-30 23:33:31
+date: 2020-01-30 23:33:00
 tags:
   - Home Seller Tips
 excerpt: So you listed your home with the wrong agent—what do you do now?
@@ -21,7 +21,7 @@ youtube_code: VBfFWUdFD4Y
 
 If you listed your home with the wrong agent, what do you do? Can you get out of your contract with that agent?
 
-First, a disclosure: I’m not going to advise anyone on how to get out of their contract with their agent. I will, however, let you know that when people list with me, I let them know right up front that **we offer risk-free listings. If you’re not satisfied with our work, then you can get out of the contract for free.** Most agents don’t work that way; once you sign the contract, you’re stuck for between six months to a year.
+First, a disclosure: I’m not going to advise anyone on how to get out of their contract with their agent. I will, however, let you know that when people list with me, I let them know right up front that **we offer risk-free listings. If you’re not satisfied with our work, then you can get out of the contract for free.** Most agents don’t work that way; once you sign the contract, you’re stuck for six months to a year.
 
 {% include pullquote.html %}
 
