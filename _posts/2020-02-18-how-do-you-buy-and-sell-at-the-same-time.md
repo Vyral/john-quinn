@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do You Buy and Sell at the Same Time?
-date: 2020-02-18 00:06:28
+date: 2020-02-18 00:06:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
@@ -20,11 +20,11 @@ youtube_code: kJiKiSFkvB8
 
 {% include youtube.html %}
 
-One of the biggest concerns for people who need to sell their house and buy a new one is whether they’ll be able to move seamlessly from one house to the next or have to move twice. Moving twice, after all, can be an absolute nightmare.&nbsp;
+One of the biggest concerns for people who need to sell their house and buy a new one is whether they’ll be able to move seamlessly from one house to the next. Moving twice, after all, can be an absolute nightmare.&nbsp;
 
-We help a lot of sellers sell their homes and move into their next one, and it’s part of our job to work toward a simultaneous closing so they only have to move once. What if you’re able to get your home sold but the house you want isn’t quite ready to move into yet?
+**We help a lot of sellers sell their homes and move into their next one,** and it’s part of our job to work toward a simultaneous closing so they only have to move once. What if you’re able to get your home sold but the house you want isn’t quite ready to move into yet?
 
-There are many ways to remedy this situation. Sometimes, we use temporary housing. Other times, we’re able to work everything out so they can move from one place to the next without a problem. We’ve also had sellers rent their previous home back from the new owners for a month or two until their new home was ready. After that, the buyers are free to move in.&nbsp;
+There are many ways to remedy this situation. Sometimes, we use temporary housing. Other times, we’re able to work everything out so they can move from one place to the next without a problem. We’ve also had sellers rent their previous home back from the new owners for a month or two until their new home was ready. After that, the buyers are free to move into the home.&nbsp;
 
 {% include pullquote.html %}
 
@@ -32,4 +32,4 @@ There are many ways to remedy this situation. Sometimes, we use temporary housin
 
 Additionally, we can negotiate with sellers to move the closing date. In a home sale, there are hundreds of moving parts, and it’s important to make sure everything is coordinated. That’s why it’s doubly important to have a skilled agent and negotiator on your side.
 
-So **keep these things in mind if you need to buy and sell a home at the same time.** If you have any questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d be happy to help you.
+So **keep these things in mind if you need to buy and sell a home at the same time.** If you have questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d be happy to help you.
