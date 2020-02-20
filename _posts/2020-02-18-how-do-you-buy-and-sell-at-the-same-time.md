@@ -33,3 +33,5 @@ There are many ways to remedy this situation. Sometimes, we use temporary housin
 Additionally, we can negotiate with sellers to move the closing date. In a home sale, there are hundreds of moving parts, and it’s important to make sure everything is coordinated. That’s why it’s doubly important to have a skilled agent and negotiator on your side.
 
 So **keep these things in mind if you need to buy and sell a home at the same time.** If you have questions about this or any other real estate topic, don’t hesitate to reach out to me. I’d be happy to help you.
+
+\- **John Quinn**<br>**[901-591-8100](tel:901-591-8100){: target="_blank"}**
