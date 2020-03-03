@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Commonly Overlooked Staging Tips
-date: 2020-03-02 21:15:33
+date: 2020-03-02 21:15:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/staging-tips-youtube.jpg
-youtube_code: 6mZmgfpdwMs
+youtube_code: L7Is4nnorxU
 ---
 
 {% include youtube.html %}
