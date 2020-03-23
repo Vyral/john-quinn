@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ways to Eliminate Stress From Your Mortgage
-date: 2020-03-20 17:38:39
+date: 2020-03-20 17:38:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -33,10 +33,10 @@ There’s also a 15-year fixed-rate mortgage, allowing you to pay down on your h
 
 {% include pullquote.html %}
 
-The next step to reducing stress on your mortgage is to try to put as much money down on the house as you possibly can. Yes, there are mortgages out there that allow you get into a home with 3.5% down or even no money down, but remember: The more money you put down, the less there will be to pay off down the road.&nbsp;
+The next step to reducing stress on your mortgage is to try to put as much money down on the house as you possibly can. Yes, there are mortgages out there that allow you to get into a home with 3.5% down or even no money down, but remember: The more money you put down, the less there will be to pay off down the road.&nbsp;
 
 **I recommend, if possible, getting a mortgage with 20% or more down**. This way, you’ll have the peace of mind knowing your monthly payments from there on out will be manageable. Furthermore, should some catastrophic event occur and you need to sell the house, you’ll know that you have enough equity in the house to sell it and get out from under that large mortgage.&nbsp;
 
-Right now, our interest rates are running right around 4%, which is pretty good considering that when I got into the business they were closer to 10% and 12%. Though these rates may still go down a bit, 4% is still awfully beautiful—I would take those in a heartbeat\!
+Right now, our interest rates have dropped below 4%, and some buyers are seeing rates below 3%\! For reference, when I got into the business, they were closer to 10% and 12%. Though these rates have the potential to drop further, they've never been as low as they are now.
 
 Here’s the last step to making sure your mortgage doesn’t scare you: **Just get to it and pay it down.** Keep taking a little bit from each paycheck and putting it toward the principal until you eventually own the house free and clear. That’s always a great place to arrive.
