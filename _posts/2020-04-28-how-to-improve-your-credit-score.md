@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Improve Your Credit Score
-date: 2020-04-28 20:09:48
+date: 2020-04-28 20:09:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -19,7 +19,7 @@ youtube_code: 8hvOPgwDPL0
 
 {% include youtube.html %}
 
-I’m asked a lot about credit scores and how people can help them go up. We know that the top possible score is around 850. Only one person out of 200 is going to have that perfect score, with most peoples’ scores running in the 750 range. Once you start getting into the 600 range, financing gets a bit tougher. If you’re in the 500 range, it’s going to be even harder.
+I’m asked a lot about credit scores and how people can help them go up. We know that the top possible score is around 850. Only one person out of 200 is going to have that perfect score, with most people's scores running in the 750 range. Once you start getting into the 600 range, financing gets a bit tougher. If you’re in the 500 range, it’s going to be even harder.
 
 **If your score isn’t where you’d like it to be, here are a few things that you can do to help it go up:**
 
@@ -27,9 +27,9 @@ I’m asked a lot about credit scores and how people can help them go up. We kno
 
 {% include pullquote.html %}
 
-**2\. Don’t be afraid to refinance.** If you can refinance your home and get a lower interest rate, it will show that you have paid one mortgage off and have a new one and help your credit score go down.
+**2\. Don’t be afraid to refinance.** If you can refinance your home and get a lower interest rate, it will show that you have paid off one mortgage and now have a new one, which will help your credit score go down.
 
-**3\. Make sure all your revolving credit is paid regularly.** This includes car payments, housing payments, and credit cards. Don’t wait until the day before the late fee is due because even that will hurt your score. You’ve got to pay everything on time.
+**3\. Make sure all your revolving credit is paid regularly.** This includes car payments, housing payments, and credit cards. Don’t wait until the day before the late fee is due because even that will hurt your score. You have to pay everything on time.
 
 Once your credit score goes up, your interest rate will improve and it will be much easier for you to buy a home.&nbsp;
 
