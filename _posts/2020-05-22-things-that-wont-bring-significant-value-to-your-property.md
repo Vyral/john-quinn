@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Things That Won’t Bring Significant Value to Your Property
-date: 2020-05-22 19:14:38
+date: 2020-05-22 19:14:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
