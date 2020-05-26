@@ -21,7 +21,7 @@ youtube_code: 85MSqq2-ZlQ
 
 {% include youtube.html %}
 
-There are a lot of upgrades you can make to your home, but spending a lot of money on them doesn’t always work out. Spending a lot of money on professional landscaping, for example, won’t result in a dollar-for-dollar return.&nbsp;
+There are a lot of upgrades you can make to your home, but investing heavily in them doesn’t always work out. Spending a lot of money on professional landscaping, for example, won’t result in a dollar-for-dollar return.&nbsp;
 
 **Adding a new roof, new gutters, or a swimming pool will raise your home’s value, but it won’t translate into more money for you when you sell.** A new roof may take $10,000 to install, but it won’t bring an extra $10,000 of value to your home.
 
