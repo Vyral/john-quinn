@@ -29,7 +29,7 @@ When painting, make sure the transition between the trim and the walls has smoot
 
 {% include pullquote.html %}
 
-If you can just steam-clean your carpet to make it look brand new, that’s great, but most homes I visit have carpet that’s been there for five to 15 years, and steam-cleaning won’t do the job in this case.&nbsp;
+If you can just steam-clean your carpet to make it look brand new, that’s great, but most homes I visit have carpet that’s been there for five to 15 years, and steam-cleaning won’t do the job in that case.&nbsp;
 
 If you’re in a similar situation, **you’ll have to replace your carpet entirely, and I suggest using a single, neutral color for every room.** Don’t go cheap, but you don’t have to get expensive either. Just install a nice carpet with a good pad that buyers will notice when they walk through the home. If they see you’ve spent good money on the carpet, that could be the deciding factor in them choosing your house over a similar house with old carpet.&nbsp;
 
