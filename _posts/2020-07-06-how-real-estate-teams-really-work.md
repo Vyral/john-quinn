@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Real Estate Teams Really Work
-date: 2020-07-06 17:22:16
+date: 2020-07-06 17:22:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -20,7 +20,7 @@ youtube_code: yuXN0EX5HtQ
 
 {% include youtube.html %}
 
-I’ve been in the real estate industry since the late 80s. When I first started, there were no real estate teams. Each agent operated their own separate business, and occasionally a top producer might hire an assistant to help with paperwork.
+I’ve been in the real estate industry since the late '80s. When I first started, there were no real estate teams. Each agent operated their own separate business, and occasionally a top producer might hire an assistant to help with paperwork.
 
 **Over the last few decades, many of those solo agents have shifted to a team structure.** There are a lot of teams in the industry these days, but there’s an ugly truth behind them.
 
@@ -28,6 +28,6 @@ I’ve been in the real estate industry since the late 80s. When I first started
 
 Many agents are concerned more with quantity over quality. Before the ink has even dried on someone’s real estate license, many will start hiring these new agents underneath them. Having 20 agents on a team means nothing if they have a combined two years of experience. Even though you have a team working for you, you don’t have that experience to be able to handle a real estate transaction successfully.
 
-If you are going to hire a real estate team, find one where the head of the team has been in the business for a long time and has the experience and knowledge of being in real estate for a long time. **They will know the ins and outs, how to negotiate for you, and how to conduct a successful home sale or purchase.**
+If you are going to hire a real estate team, find one where the head of the team has been in the business for a long time and has the experience and knowledge to show for it. **They will know the ins and outs, how to negotiate for you, and how to conduct a successful home sale or purchase.**
 
 If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
