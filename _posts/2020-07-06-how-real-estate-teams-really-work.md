@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-teams-operate-youtube.jpg
-youtube_code: yuXN0EX5HtQ
+youtube_code: R_fU-Ii0JiQ
 ---
 
 {% include youtube.html %}
