@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What’s Coming Up in 2020?'
-date: 2020-10-26 18:54:25
+date: 2020-10-26 18:54:00
 tags:
   - Market Update
 excerpt: Here are my Memphis real estate market predictions for the rest of 2020.
@@ -19,7 +19,7 @@ youtube_code: 9cdvyF1v6dU
 
 In 2020, most predictions were thrown out the window because this year has been very bizarre for everyone. However, I wanted to offer my predictions for how the rest of the 2020 real estate market may go.&nbsp;
 
-I believe our Memphis market will remain strong. Of course, **it’s always possible the presidential election could change things.** What we do know is that prices are increasing and buyers are receiving historically low interest rates. Though prices are rising quickly and some buyers are backing off, waiting for them to decrease, prices will likely either increase more or remain the same.&nbsp;
+I believe our Memphis market will remain strong. Of course, **it’s always possible the presidential election could change things.** What we do know is that prices are increasing and buyers are receiving historically low interest rates. Though prices are rising quickly and some buyers are waiting for them to decrease, prices will likely either increase more or remain the same.&nbsp;
 
 {% include pullquote.html %}
 
