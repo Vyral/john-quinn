@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Should You Accept a Contingent Offer?'
-date: 2020-11-18 15:57:32
+date: 2020-11-18 15:57:00
 tags:
   - Home Seller Tips
 excerpt: Here’s what you need to know before accepting a contingent offer.
@@ -30,6 +30,6 @@ In some cases, this would be a great idea. In other cases, not so much. **If you
 
 These are important factors in determining whether to accept the offer or not. Another important factor I always consider with my seller clients is the strength of the buyer in question. Can they buy the house without a contingency? Can the buyer who’s buying their house make things work?
 
-With all of these factors in play, **make sure you work with a competent agent** who can sift through the details and tell you whether a deal looks like it will fall through or not. There’s a lot of money riding on your home sale, and when you accept a contingency offer, your home will most likely come off the market, and all its marketing will cease. If the deal falls apart because the other house didn’t sell, you’ll have to put yours back on the market and regenerate enough market activity to get top dollar.&nbsp;
+With all of these factors in play, **make sure you work with a competent agent** who can sift through the details and tell you whether a deal looks like it will fall through or not. There’s a lot of money riding on your home sale, and when you accept a contingent offer, your home will most likely come off the market, and all its marketing will cease. If the deal falls apart because the other house didn’t sell, you’ll have to put yours back on the market and regenerate enough market activity to get top dollar.&nbsp;
 
 So keep these things in mind before accepting a contingent offer. If you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’d love to help you.
