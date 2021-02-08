@@ -1,10 +1,12 @@
 ---
 layout: post
 title: How to Avoid Owning 2 Homes
-date: 2021-02-08 21:31:58
+date: 2021-02-08 21:31:00
 tags:
   - Home Seller Tips
-excerpt:
+excerpt: >-
+  Today we'll explain how to not end up temporarily homeless when selling your
+  home.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/How+to+Avoid+Owning+2+Homes.mp4
 pullquote:
