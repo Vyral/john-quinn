@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Should Sellers Handle Multiple Offers
-date: 2021-02-22 20:06:18
+title: How Should Sellers Handle Multiple Offers?
+date: 2021-02-22 20:06:00
 tags:
   - Home Seller Tips
 excerpt: Here’s how we handle multiple offers with our home-selling clients.
