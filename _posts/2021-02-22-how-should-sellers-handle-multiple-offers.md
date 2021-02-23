@@ -17,7 +17,7 @@ youtube_code: pD8lpS_eF6Y
 
 {% include youtube.html %}
 
-Over the last few years, Memphis has been in a strong seller’s market. One of the biggest (and only) problems sellers face in this market is what to do when there are multiple offers on the home.&nbsp;
+Over the last few years, Memphis has been in a strong seller’s market. One of the only problems sellers face in this market is what to do when there are multiple offers on the home.&nbsp;
 
 Do you take the highest price? The best terms? **Those are really good questions, and it’s one of the reasons why we create an entire spreadsheet for our clients that spell out all the offers they receive and how they differ.** We don’t always recommend taking the highest offer. Some offers are too good to be true, and you won’t find out which ones those are unless your agent does their due diligence.
 
