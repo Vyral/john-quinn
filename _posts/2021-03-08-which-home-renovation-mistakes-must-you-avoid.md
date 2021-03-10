@@ -23,7 +23,7 @@ One of the biggest mistakes home sellers make when remodeling is **not taking a 
 
 {% include pullquote.html %}
 
-Another huge mistake sellers make is **overlooking major repairs that need to be taken care of.** I once went to a home where the owner remodeled everything but forgot to update the 40-year-old roof. Even though it hadn’t been leaking, it was still going to cost $15,000 to repair and they already spent their entire renovation budget. 
+Another huge mistake sellers make is **overlooking major repairs that need to be taken care of.** I once went to a home where the owner remodeled everything but forgot to update the 40-year-old roof. Even though it hadn’t been leaking, it was still going to cost $15,000 to repair, and they already spent their entire renovation budget. 
 
 This kind of oversight will really hurt you in the long run, so before you decide to spend thousands of dollars in renovations, give me a call. I’d be glad to visit your home, give you a free consultation detailing the necessary steps to sell it, and help you decide which kinds of renovations you should make. 
 
