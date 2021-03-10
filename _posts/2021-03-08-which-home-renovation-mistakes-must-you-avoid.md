@@ -19,7 +19,7 @@ youtube_code: kMrwamHc8kg
 
 When it comes to renovating your home, you can spend a lot of money without actually increasing its value. 
 
-One of the biggest mistakes homes sellers make when remodeling is **not taking a moment to reflect on why they want to make renovations in the first place.** Ask yourself—are you making renovations because you like them and want to stay in your home or because you want to get your home ready to sell? If you’re renovating to sell, focus on the basics that will appeal to the most buyers. For example, keep your home’s paint colors neutral and avoid adding your own color preferences. 
+One of the biggest mistakes home sellers make when remodeling is **not taking a moment to reflect on why they want to make renovations in the first place.** Ask yourself—are you making renovations because you like them and want to stay in your home or because you want to get your home ready to sell? If you’re renovating to sell, focus on the basics that will appeal to the most buyers. For example, keep your home’s paint colors neutral and avoid adding your own color preferences. 
 
 {% include pullquote.html %}
 
