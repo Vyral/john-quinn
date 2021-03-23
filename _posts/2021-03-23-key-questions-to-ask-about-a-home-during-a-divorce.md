@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today we'll look at some key real estate questions when it comes to getting a
   divorce.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/Key+Questions+to+Ask+About+a+Home+During+a+Divorce.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
