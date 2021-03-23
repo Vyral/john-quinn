@@ -4,9 +4,7 @@ title: Key Questions to Ask About a Home During a Divorce
 date: 2021-03-23 16:25:00
 tags:
   - Home Seller Tips
-excerpt: >-
-  Today we'll look at some key real estate questions when it comes to getting a
-  divorce.
+excerpt: Today we'll look at some key real estate issues involving divorce.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/Key+Questions+to+Ask+About+a+Home+During+a+Divorce.mp4
 pullquote:
