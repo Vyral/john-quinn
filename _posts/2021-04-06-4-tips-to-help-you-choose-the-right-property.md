@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 4 Tips to Help You Choose the Right Property
-date: 2021-04-06 21:51:57
+date: 2021-04-06 21:51:00
 tags:
   - Home Buyer Tips
 excerpt: These four tips will help you choose the right home.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/4+Tips+to+Help+You+Choose+the+Right+Property.mp4
 pullquote: >-
-  Feel free to ask questions about the houses you visit and take a good look at
+  Feel free to ask questions about the houses you visit, and take a good look at
   them.
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,11 +18,11 @@ youtube_code: KfNybDVvFOQ
 ---
 {% include youtube.html %}
 
-With inventory as little as it is in our market, it can be frustrating for buyers, and you may be tempted to buy any property you can get your hands on. There’s a better approach to choosing the right property, though, and it starts with these four tips.&nbsp;
+With inventory as little as it is in our market, it can be frustrating for buyers, and you may be tempted to buy any property you can get your hands on. There’s a better approach to choosing the right property, though, and it starts with these four tips:&nbsp;
 
 **1\. Write down what you really want in your next home.** Make a list of ‘must have’ items and items you like but can do without and give that list to your agent.&nbsp;
 
-**2\. Narrow down the location.** I’m sure you can find the perfect house, but if it’s in the wrong neighborhood, it’s not really the right house for you. I get a lot of calls from people who feel like they need to sell their house only a couple years after they bought it because they’ve decided it’s not close enough to where they work or their kids’ school. It costs a lot of money to do that, so narrow down which neighborhood you want to live in. You’ll likely be there for a while.
+**2\. Narrow down the location.** I’m sure you can find the perfect house, but if it’s in the wrong neighborhood, it’s not really the right house for you. I get a lot of calls from people who feel like they need to sell their house only a couple of years after they bought it because they’ve decided it’s not close enough to where they work or their kids’ school. It costs a lot of money to do that, so narrow down which neighborhood you want to live in. You’ll likely be there for a while.
 
 {% include pullquote.html %}
 
