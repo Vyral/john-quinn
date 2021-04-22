@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Saving Time & Money on New Construction Purchases
-date: 2021-04-21 19:43:37
+date: 2021-04-21 19:43:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how to save time and money when you buy new construction.
@@ -22,7 +22,7 @@ If you’re in the market for a brand-new home, here are a few tips that will he
 
 **2\. Look at the surrounding neighborhoods.** Make sure that the neighborhoods around the one you’re searching in are compatible with your area. Will they have any adverse effects on the brand-new neighborhood that’s being constructed?
 
-**3\. Research the builder.** People often get starry-eyed when looking at the new construction model home and believe that everything will be perfect. But you need to determine that your builder is reputable; you might even stop to speak to some of the people who already live in the neighborhood to find out if they’re satisfied with the builder’s work.
+**3\. Research the builder.** People often get starry-eyed when looking at the new construction model home and believe that everything will be perfect. Determining the reputability of your builder is important; you might even stop to speak to some of the people who already live in the neighborhood to find out if they’re satisfied with the builder’s work.
 
 It’s important to go through these little steps because chances are that you’re going to live in this new home for quite a while, and you’ll want to be satisfied with the purchase you make.&nbsp;
 
