@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Signs It’s Time to Downsize
-date: 2021-05-10 20:27:13
+date: 2021-05-10 20:27:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
@@ -12,7 +12,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/downsize-yt.jpg
+youtube_alternate_image: /uploads/downsize-yt1.jpg
 youtube_code: IksSE89XoYk
 ---
 {% include youtube.html %}
