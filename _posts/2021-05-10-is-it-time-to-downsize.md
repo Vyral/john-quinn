@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Signs It’s Time to Downsize
+title: Is It Time to Downsize?
 date: 2021-05-10 20:27:00
 tags:
   - Home Seller Tips
