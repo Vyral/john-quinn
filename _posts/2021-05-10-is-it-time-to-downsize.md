@@ -8,7 +8,7 @@ tags:
 excerpt: What are the signs that it might be time to downsize?
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/3+Signs+It%E2%80%99s+Time+to+Downsize.mp4
-pullquote:
+pullquote: You could buy a rental property with that passive income.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
