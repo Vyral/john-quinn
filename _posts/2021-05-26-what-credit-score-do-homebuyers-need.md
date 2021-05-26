@@ -1,11 +1,12 @@
 ---
 layout: post
 title: What Credit Score Do Homebuyers Need?
-date: 2021-05-26 20:04:42
+date: 2021-05-26 20:04:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s a look at the role your credit score plays in getting a mortgage.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/What+Credit+Score+Do+Homebuyers+Need_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
