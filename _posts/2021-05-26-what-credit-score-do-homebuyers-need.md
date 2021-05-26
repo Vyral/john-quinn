@@ -20,8 +20,6 @@ There are many misconceptions out there about the kind of credit score needed to
 
 That’s simply not the case. We’ve been able to get people in homes with credit scores in the low 600s. Anything below that makes it really tough to get a house.
 
-{% include pullquote.html %}
-
 **If you do have a high credit score of 750 or above, you’ll be able to qualify for pretty much any type of loan.** When your score dips to the 600s or 500s, it becomes more difficult for you to find a mortgage.
 
 We’ve worked with a ton of homebuyers helping them improve their credit score. It takes a little bit of time, but it’s worth it in the long run. **The higher your credit score, the lower your interest rate will be.**
