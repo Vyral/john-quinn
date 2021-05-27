@@ -22,6 +22,6 @@ That’s simply not the case. We’ve been able to get people in homes with cred
 
 **If you do have a high credit score of 750 or above, you’ll be able to qualify for pretty much any type of loan.** When your score dips to the 600s or 500s, it becomes more difficult for you to find a mortgage.
 
-We’ve worked with a ton of homebuyers helping them improve their credit score. It takes a little bit of time, but it’s worth it in the long run. **The higher your credit score, the lower your interest rate will be.**
+We’ve worked with a ton of homebuyers and help improve their credit scores. It takes a little bit of time, but it’s worth it in the long run. **The higher your credit score, the lower your interest rate will be.**
 
 If you need help improving your credit or have any questions about buying a home, don’t hesitate to reach out via phone or email. We’d love to hear from you.
