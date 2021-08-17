@@ -17,7 +17,7 @@ youtube_code: 77yQK_dLAs4
 ---
 {% include youtube.html %}
 
-I get asked all the time whether people should buy investment property for passive income or retirement income. I believe strongly in investing in both types of income, but you have to be careful how you go about it. I’ve seen too many people invest in real estate only to have it backfire. Here are three tips about investing in rental properties.&nbsp;
+I get asked all the time if people should buy investment property for either passive or retirement income. I believe strongly in investing in both types of income, but you have to be careful how you go about it. I’ve seen too many people invest in real estate only to have it backfire. Here are three tips about investing in rental properties.&nbsp;
 
 **1\. The biggest mistake I see is that they try not to spend much money out of pocket.** You have to keep in mind that you’ll be spending money on repairs, cleanup, and any other messes your tenants made while living there. Because of this, you need to make sure you’re in a decent financial position before buying a rental property.&nbsp;
 
