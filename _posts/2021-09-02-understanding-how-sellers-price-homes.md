@@ -22,4 +22,4 @@ Sellers want to get as much money as possible. **Many sellers would like to pric
 
 On the other hand, buyers want to get the house for the lowest price possible. In a hot seller’s market, a lot of buyers find a perfect home only to end up in a multiple-offer situation. How can a buyer win a multiple-offer situation but not break the bank? The first step is to call an experienced real estate agent.&nbsp;
 
-We can help you with any real estate-related question, so give us a call at 901-591-8100 or go to [thejohnquinnteam.com](http://thejohnquinnteam.com). We look forward to working with you\!
+We can help you with any real estate-related question, so give us a call at 901-591-8100 or go to [johnquinnrealestate.com](https://www.johnquinnrealestate.com/){: target="_blank" rel="noopener"}. We look forward to working with you\!
