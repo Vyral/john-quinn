@@ -18,6 +18,6 @@ youtube_code: VXXrsSA7ACA
 
 When selling your home, you should always get a home inspection, and when you do, electrical or plumbing issues will inevitably come up. Should you do your own plumbing and electrical work? No, **hire a licensed plumber or electrician\!&nbsp;**
 
-Though I’ve flipped many homes in the last 30-some years, I always hire a plumber and electrician to take care of the home’s needs. Yes, I could do it myself, but if anything catastrophic is going to happen to the house, it’s likely going to be from broken pipes or messed-up electrical work that catches on fire. Those are two things you don’t ever want to happen to the house, whether you’re in it or already sold it. Hiring a professional will cost a bit more, but **you’ll know it’s done right,** and you won’t have any liability afterward.&nbsp;
+Though I’ve flipped many homes in the last 30-some years, I always hire a plumber and electrician to take care of the home’s needs. Yes, I could do it myself, but if anything catastrophic is going to happen to the house, it’s likely going to be from broken pipes or messed-up electrical work that catches on fire. Those are two things you don’t ever want to happen to the house, whether you are living there or have already sold it. Hiring a professional will cost a bit more, but **you’ll know it’s done right,** and you won’t have any liability afterward.&nbsp;
 
 If I can ever be of assistance to you, or if you have any questions, please call me or visit my [website](https://www.johnquinnrealestate.com/). I would love to help.
