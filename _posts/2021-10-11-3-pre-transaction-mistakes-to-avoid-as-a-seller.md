@@ -17,8 +17,8 @@ youtube_code: NlacRJdraYk
 
 Sellers want to get the most amount of money out of their sale as possible. Here are three common mistakes that most homeowners make that prevent them from doing so:
 
-1. **Price.** Do you price the house at market value, slightly above market value, or way above market value? That will determine how many buyers will come out and take a look at your home.
-2. **Repairs.** Get any repairs that need to be done out of the way before getting an offer on the house and waiting for the home inspection to catch it. Not doing this can cost thousands of dollars.
+1. **Not Pricing Correctly.** Do you price the house at, slightly above, or way above market value? That determines how many buyers will come out and take a look at your home.
+2. **Not Making or Disclosing Needed Repairs.** Get any repairs that need to be done out of the way before getting an offer on the house and waiting for the home inspection to catch it. Not doing this can cost thousands of dollars.
 3. **Not choosing an agent who will represent them properly.** Make sure that you get the right agent who will represent you in the transaction and guide you through all the steps in the selling process.
 
-If you'd like to know the different steps that we take to ensure that you get top dollar or if you have any other questions, please give me a call at 901-591-8100. I look forward to hearing from you.
+If you'd like to know the different steps that we take to ensure you get top dollar, or if you have any other questions, please give us a call at 901-591-8100. We look forward to hearing from you.
