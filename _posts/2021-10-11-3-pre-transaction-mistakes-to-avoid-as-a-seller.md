@@ -5,7 +5,8 @@ date: 2021-10-11 20:00:24
 tags:
   - Home Seller Tips
 excerpt: Here are three common mistakes that sellers make before a transaction.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/3+Pre-Transaction+Mistakes+To+Avoid+as+a+Seller.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
