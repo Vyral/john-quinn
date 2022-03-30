@@ -14,8 +14,6 @@ youtube_code: oxt4ShxStnw
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
 If you're thinking about listing your home on the market, here are some tips to make the process faster and easier:
 
 **1\. Get a pre-listing home inspection.** This way, you can repair any troubled areas before the open houses.
