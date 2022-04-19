@@ -16,14 +16,14 @@ youtube_code: NTN-JmycqqQ
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
 In the past, most people woke up in the morning, got dressed, and headed into the office to tackle the day. After the pandemic caused many people to begin working remotely, that has changed for a large portion of the population. Today I’ll discuss how that shift has changed the minds of buyers looking for homes in our current market. This will be useful to keep in mind if you’re thinking about selling your home and want to get the absolute best price.&nbsp;
 
-What features are they looking for in a home nowadays? Well, with people staying home more and more, there has been a definite switch to three main preferences that stand out compared to what buyers wanted in the past:
+What features are buyers looking for in a home nowadays? Well, with people staying home more and more, there has been a definite switch to three main preferences that stand out compared to what buyers wanted in the past:
 
-1. **Storage space.** While storage space has always been important, it’s become even more critical now that people are working from home. They’re collecting more possessions than they have in the past. If you’re thinking of selling your home, consider custom built-ins, especially in closets that are used a lot such as the primary bedroom and front hall closets. Buyers are paying particular attention to these areas; they’re not inexpensive to install, but they’re great investments that increase the functionality of your home.
-2. **Space to work from home.** These don’t necessarily have to be dedicated offices—many homes don’t have a separate space for that. Other rooms can be repurposed into a space to work from home; buyers are looking for a space with good lighting and the option to have an appealing background when doing Zoom calls.
-3. **Outdoor space.** Since people are spending more time at home, a home’s outdoor space has become more important than ever. After all, it’s really just an extension of the home. Outdoor seating areas and even complete outside kitchens are very desirable these days and can add value when you sell.
+**1\. Storage space.** While storage space has always been important, it’s become even more critical now that people are working from home. They’re collecting more possessions than they have in the past. If you’re thinking of selling your home, consider custom built-ins, especially in closets that are used a lot such as the primary bedroom and front hall closets. These are inexpensive to install, but they’re great investments that increase the functionality of your home. Buyers are paying particular attention to these areas
+
+**2\. Space to work from home.** These don’t necessarily have to be dedicated offices—many homes don’t have a separate space for that. Other rooms can be repurposed into a space to work from home; buyers are looking for a space with good lighting and the option to have an appealing background when doing Zoom calls.
+
+**3\. Outdoor space.** Since people are spending more time at home, a home’s outdoor space has become more important than ever. After all, it’s really just an extension of the home. Outdoor seating areas and even complete outside kitchens are very desirable these days and can add value when you sell.
 
 If you have any questions about buyer preferences or were thinking about selling your home, don’t hesitate to give me a call or send me an email. I’d love to hear from you.
