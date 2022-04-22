@@ -16,8 +16,6 @@ youtube_code: NTN-JmycqqQ
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}
-
 In the past, most people woke up in the morning, got dressed, and headed into the office to tackle the day. After the pandemic caused many people to begin working remotely, that has changed for a large portion of the population. Today I’ll discuss how that shift has changed the minds of buyers looking for homes in our current market. This will be useful to keep in mind if you’re thinking about selling your home and want to get the absolute best price.&nbsp;
 
 What features are buyers looking for in a home nowadays? Well, with people staying home more and more, there has been a definite switch to three main preferences that stand out compared to what buyers wanted in the past:
