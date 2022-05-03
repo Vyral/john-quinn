@@ -11,8 +11,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code:
+youtube_alternate_image: /uploads/offer-stand-out-yt.jpg
+youtube_code: Oa1b-yTBzbM
 ---
 {% include youtube.html %}
 
