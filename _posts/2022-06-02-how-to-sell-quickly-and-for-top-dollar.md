@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Sell Quickly and for Top Dollar
+title: How to Maximize Your Home Sale
 date: 2022-06-02 00:00:00
 tags:
 excerpt: 'Here are six ways you can sell your home quickly and for top dollar. '
@@ -24,7 +24,7 @@ Every seller wants to sell their home in the least amount of time for the most a
 
 **2\. Eliminate stray odors.** People buy homes with their senses. You might not notice the smell of your pet, but others can. Strong food odors can also be a turn-off. Use candles or plug-ins to address these issues. If the weather permits, you can open the doors and windows to let in the fresh air.&nbsp;
 
-**3\. Take professional photos.** When I first started, we used Polaroid cameras to take pictures. Now, most buyers start their journeys by looking at photos online. If you hire the right professional, you could create a 3-D tour of your whole home. This way, buyers can do a walkthrough before ever setting foot in your property.&nbsp;
+**3\. Take professional photos.** When I first started, we used Polaroid cameras to take pictures. Now, most buyers start their journeys by looking at photos online. If you hire the right professional, you could create a 3D tour of your whole home. This way, buyers can do a walkthrough before ever setting foot in your property.&nbsp;
 
 **4\. Clear your schedule.** Flexibility is a huge advantage when selling your home. Try not to turn down any tour requests. If you have to limit your hours, try to do so as little as possible. Buyers won’t make an offer on what they haven’t seen.&nbsp;
 
