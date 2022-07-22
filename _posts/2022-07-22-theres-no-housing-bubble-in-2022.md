@@ -12,7 +12,9 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/bubble-yt.jpeg
 youtube_code: j-SubhjieJ8
 ---
-{% include youtube.html %}<br><br>{% include excerpt.html %}
+{% include youtube.html %}
+
+{% include excerpt.html %}
 
 Are we heading into another housing crash like in 2007? Every month, there are thousands of Google searches for terms relating to “housing bubble”. It’s clearly on people’s minds. **This market may feel similar to the one back in 2007 due to all the high prices, but is it?**
 
