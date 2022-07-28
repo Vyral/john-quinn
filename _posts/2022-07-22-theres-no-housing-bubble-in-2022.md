@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/bubble-yt.jpeg
-youtube_code: j-SubhjieJ8
+youtube_code: 7FvU_-Itb4k
 ---
 {% include youtube.html %}
 
