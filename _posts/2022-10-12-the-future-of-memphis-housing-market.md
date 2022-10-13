@@ -4,7 +4,8 @@ title: The Future of Memphis’ Housing Market
 date: 2022-10-12 05:00:00
 tags:
 excerpt: 'Here’s what you need to know about Memphis’ real estate market. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/The+Future+of+Memphis%E2%80%99+Housing+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
