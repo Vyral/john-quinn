@@ -3,7 +3,7 @@ layout: post
 title: The Future of Memphis’ Housing Market
 date: 2022-10-12 05:00:00
 tags:
-excerpt: 'Here’s what you need to know about Memphis’ housing market. '
+excerpt: 'Here’s what you need to know about Memphis’ real estate market. '
 enclosure:
 pullquote:
 enclosure_type: video/mp4
