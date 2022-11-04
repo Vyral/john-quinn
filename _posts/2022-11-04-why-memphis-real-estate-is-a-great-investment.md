@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Memphis Real Estate Is a Great Investment
-date:
+date: 2022-11-04 05:00:00
 tags:
 excerpt: >-
   Investing in Memphis rental properties may be your ticket to financial
