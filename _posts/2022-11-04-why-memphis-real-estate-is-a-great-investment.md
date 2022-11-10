@@ -6,7 +6,8 @@ tags:
 excerpt: >-
   Investing in Memphis rental properties may be your ticket to financial
   freedom.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/Why+Memphis+Real+Estate+Is+a+Great+Investment.mp4
 pullquote: Investing in rental property is not a get-rich-quick scheme.
 enclosure_type: video/mp4
 enclosure_time:
