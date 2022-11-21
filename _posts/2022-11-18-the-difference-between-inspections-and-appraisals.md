@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/appraisals-vs-inspections-yt.jpg
-youtube_code: y4dtrrwngwY
+youtube_code: CqM1Hs_Cy4s
 ---
 {% include youtube.html %}
 
