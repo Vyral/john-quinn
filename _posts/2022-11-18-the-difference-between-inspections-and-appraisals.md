@@ -3,7 +3,7 @@ layout: post
 title: The Difference Between Inspections and Appraisals
 date: 2022-11-18 05:00:00
 tags:
-excerpt: Inspections and appraisals are not the same. Here’s how.
+excerpt: Inspections and appraisals are not the same. Here’s how they’re different.
 enclosure:
 pullquote: >-
   In a home inspection, the buyer and seller can freely negotiate with each
