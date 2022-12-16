@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/low-appraisal-yt-1.jpg
-youtube_code: zh6ycSqdJ6A
+youtube_code: c0xDDn-e3gU
 ---
 {% include youtube.html %}
 
