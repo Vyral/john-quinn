@@ -4,7 +4,8 @@ title: Options for When Your Home Appraises Low
 date: 2022-12-08 05:00:00
 tags:
 excerpt: Here’s what to do when an appraisal is lower than the contract price.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/Options+for+When+Your+Home+Appraises+Low.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
