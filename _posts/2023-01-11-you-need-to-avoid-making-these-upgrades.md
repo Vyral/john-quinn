@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/upgrades-to-avoid-yt.jpg
-youtube_code: 9t5dIrsR4yc
+youtube_code: SX1w_8DXMkg
 ---
 {% include youtube.html %}
 
