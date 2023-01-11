@@ -9,7 +9,7 @@ pullquote: These upgrades aren't going to add value to your bottom line.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/upgrades-to-avoid-yt.jpg
 youtube_code: 9t5dIrsR4yc
 ---
 {% include youtube.html %}
