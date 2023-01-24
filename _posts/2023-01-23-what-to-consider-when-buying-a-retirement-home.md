@@ -9,7 +9,7 @@ pullquote: Your answers to these questions are critical.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/55-community-yt.jpg
 youtube_code: Q8Q0kex5hqk
 ---
 {% include youtube.html %}
