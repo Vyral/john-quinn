@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Maximize Your Home Sale
-date: 2022-06-02 00:00:00
+date: 2023-02-16 05:00:00
 tags:
 excerpt: 'Here are six ways you can sell your home quickly and for top dollar. '
 enclosure:
@@ -32,4 +32,4 @@ Every seller wants to sell their home in the least amount of time for the most a
 
 **6\. Schedule a home visit.** I’d love to take a look at your home and give you some advice. Make a list of ideas you have, and I’ll go over it with you.&nbsp;
 
-If you have questions about today’s topic or would like to schedule a home visit, call me at 901-591-8100 or email [john@johnquinnrealestate.com](mailto:john@johnquinnrealestate.com). I look forward to hearing from you\!&nbsp;
+If you have questions about today’s topic or would like to schedule a home visit, call me at 901-591-8100 or email [john@johnquinnrealestate.com](mailto:john@johnquinnrealestate.com). I look forward to hearing from you!&nbsp;
