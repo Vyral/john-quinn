@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips to Help You Invest in Property
-date: 2021-08-16 18:50:04
+date: 2023-03-14 06:50:00
 tags:
   - Home Buyer Tips
 excerpt: Here are three tips to help you invest in real estate the right way.
@@ -27,4 +27,4 @@ I get asked all the time if people should buy investment property for either pas
 
 **3\. Put as much money down on the property as you can.** Whether it’s 10%, 20%, or 30% down, make sure you have the cash ready. A lot of investors try to get around this by using other people’s money, but this can be risky. I’ve seen too many investors use other people’s money only to lose the property when they can’t make their payments.&nbsp;
 
-Hopefully these tips helped you understand what goes into buying an investment property. If you want a free consultation about getting into investment properties, please reach out to me. I am always willing to help\!
+Hopefully these tips helped you understand what goes into buying an investment property. If you want a free consultation about getting into investment properties, please reach out to me. I am always willing to help!
