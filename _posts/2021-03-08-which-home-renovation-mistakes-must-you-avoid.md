@@ -1,20 +1,21 @@
 ---
 layout: post
 title: Which Home Renovation Mistakes Must You Avoid?
-date: 2021-03-08 12:06:00
+date: 2023-05-08 05:00:00
 tags:
   - Home Seller Tips
 excerpt: Here are a couple huge home renovation mistakes to avoid.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/John+Quinn/Videos/Which+Home+Renovation+Mistakes+Must+You+Avoid_.mp4
-pullquote: Before you decide to spend thousands of dollars in renovations, give me a call.
+pullquote: >-
+  Before you decide to spend thousands of dollars in renovations, give me a
+  call.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/renovation-mistakes-yt.jpg
 youtube_code: kMrwamHc8kg
 ---
-
 {% include youtube.html %}
 
 When it comes to renovating your home, you can spend a lot of money without actually increasing its value. 
