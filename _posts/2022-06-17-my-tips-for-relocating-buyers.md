@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What To Do if You’re Relocating
-date: 2022-06-17 20:13:18
+date: 2023-05-23 05:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are some ways to help you move to a new city with little stress.
