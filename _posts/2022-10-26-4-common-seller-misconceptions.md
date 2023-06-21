@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4 Common Seller Misconceptions
-date: 2022-10-26 05:00:00
+date: 2023-06-21 05:00:00
 tags:
 excerpt: 'Here are four common home-selling myths you should look out for. '
 enclosure:
