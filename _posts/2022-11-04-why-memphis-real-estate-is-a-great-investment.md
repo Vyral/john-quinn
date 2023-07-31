@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Memphis Real Estate Is a Great Investment
-date: 2022-11-04 05:00:00
+date: 2023-07-31 05:00:00
 tags:
 excerpt: >-
   Investing in Memphis rental properties may be your ticket to financial
@@ -27,6 +27,6 @@ With the uncertainty in Wall Street and the overall economy, a lot of people wan
 
 Recently, I was asked if rentals were the right way to go since home values have jumped up over 15% in the last year. I referenced to my friend a recent news article that showed how the average monthly rental amounts have increased by 30% in Memphis during the same time frame. It just shows how much investing in the Memphis market is such a great idea.&nbsp;
 
-**The local rental market is strong, and I expect it to be so for years to come.** With a low interest rate, it only makes rentals even more attractive. Imagine if you picked up enough rentals to replace your employment income\! Now that is freedom.
+**The local rental market is strong, and I expect it to be so for years to come.** With a low interest rate, it only makes rentals even more attractive. Imagine if you picked up enough rentals to replace your employment income! Now that is freedom.
 
-If you are considering taking the plunge, let me know. I've been around this rodeo for many years; I can help you locate an excellent property or more to help you get your financial goals set. Call or email me; I’m always happy to help\!
+If you are considering taking the plunge, let me know. I've been around this rodeo for many years; I can help you locate an excellent property or more to help you get your financial goals set. Call or email me; I’m always happy to help!
