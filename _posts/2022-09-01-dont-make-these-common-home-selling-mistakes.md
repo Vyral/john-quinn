@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Don’t Make These Common Home-Selling Mistakes
-date: 2022-09-01 05:00:00
-tags:
+date: 2023-08-31 05:00:00
 excerpt: Six all-too-common mistakes that sellers make while preparing their homes.
 enclosure:
 pullquote: You need an experienced agent to fight for you.
