@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Why You Should Avoid Discount Brokers
-date: 2022-09-23 05:00:00
-tags:
+date: 2023-09-27 05:00:00
 excerpt: Using a discount broker could cause you to lose out on money.
 enclosure:
 pullquote: >-
