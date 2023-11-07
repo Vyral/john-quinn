@@ -1,8 +1,7 @@
 ---
 layout: post
 title: The Difference Between Inspections and Appraisals
-date: 2022-11-18 05:00:00
-tags:
+date: 2023-11-07 05:00:00
 excerpt: Inspections and appraisals are not the same. Here’s how they’re different.
 enclosure:
 pullquote: >-
