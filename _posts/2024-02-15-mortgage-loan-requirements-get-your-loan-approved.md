@@ -17,7 +17,7 @@ youtube_code: 0pIG2t1R7X8
 
 When applying for a mortgage loan, lenders usually request various documents for assessment before approving your application. Here is a list of the documents that you generally need to provide:&nbsp;
 
-**1\. W-2 tax returns or business tax returns.** You need to provide this document if you have been self-employed for the past two to three years.
+**1\. W-2 tax returns or business tax returns.** You should always expect to provide documentation of your long-term income, regardless of whether you are traditionally or self-employed.
 
 **2\. Pay stub.** For each person signing the loan, include at least one pay stub. Pay stubs offer insight into your current income and employment status for additional verification.
 
@@ -31,7 +31,7 @@ When applying for a mortgage loan, lenders usually request various documents for
 
 **7\. Brokerage account statements.** If applicable, submit brokerage account statements for the past two to four months, as well as a list of any other major assets of value, such as a boat or RV, and stocks or bonds not held in a brokerage account.
 
-**8\. Retirement account statements.** Include your most recent 401k or other retirement account statements.
+**8\. Retirement account statements.** Include your most recent 401(k) or other retirement account statements.
 
 **9\. Documentation to verify additional income,** such as child support or pension.
 
