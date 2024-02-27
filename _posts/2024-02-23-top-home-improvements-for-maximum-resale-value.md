@@ -15,7 +15,7 @@ youtube_code: QHUdkCdkUQk
 
 {% include excerpt.html %}
 
-Maximizing Usable Space<br>Expanding and enhancing the usable space within your home can dramatically increase its value. Consider adding or upgrading essential areas, such as:
+**Maximizing Usable Space**<br>Expanding and enhancing the usable space within your home can dramatically increase its value. Consider adding or upgrading essential areas, such as:
 
 * Extra bathrooms. A high-demand feature, especially in family homes.
 * Kitchen expansions and upgrades. The kitchen is often considered the heart of the home; enlarging and modernizing this space can significantly boost its appeal.
@@ -30,7 +30,7 @@ Converting unused areas into functional spaces can also add value:
 
 * **Home office conversion.** With more people working from home, a dedicated office space is a highly desirable feature.
 
-<br>**Lighting and Brightness**
+**Lighting and Brightness**
 
 Updates that make rooms feel more open and airy tend to attract positive attention:
 
@@ -46,5 +46,3 @@ Improvements that increase a home's privacy and security can also be appealing t
 * **Landscaping.** Thoughtful landscaping can improve a home's aesthetic appeal while also adding an element of privacy.
 
 Upgrading your home with these features not only makes it more enjoyable for you to live in now but also increases its attractiveness to future buyers, potentially leading to a higher selling price when the time comes to move on. If you're considering making improvements to your home and have questions about which upgrades could offer the best return on investment, feel free to reach out. Call us or send us an email and we will be happy to guide you through the home-selling process.
-
-<br>
