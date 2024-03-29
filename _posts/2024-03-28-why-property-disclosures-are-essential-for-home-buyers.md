@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Property Disclosures Are Essential for Home Buyers
+title: Why Property Disclosures Are Essential for Homebuyers
 date: 2024-03-28 04:00:00
 excerpt: Unraveling what property disclosures are and why they’re important.
 enclosure:
