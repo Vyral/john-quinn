@@ -27,6 +27,6 @@ When listing with an agent, commissions typically follow a standard structure:
 
 **Expenses and Taxes:** A portion of the commission goes to taxes, while the rest covers expenses incurred during the selling process, such as marketing and legal costs.
 
-Real estate agents offer more significant benefits such as their expertise in pricing and dealing with transactions, while also expanding your property's visibility to potential buyers through their network. They save time by handling marketing and negotiations, and offer guidance on pricing and strategies.
+Real estate agents offer more significant benefits, such as their expertise in pricing and dealing with transactions, while also expanding your property's visibility to potential buyers through their network. They save time by handling marketing and negotiations, and offer guidance on pricing and strategies.
 
 At our agency, we prioritize transparency and efficiency. We only charge commissions upon a successful sale, aligning our incentives with yours. Whether by call, text, or email, we're ready to start the process of selling your property seamlessly.
