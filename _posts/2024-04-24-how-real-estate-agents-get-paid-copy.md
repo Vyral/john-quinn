@@ -39,4 +39,4 @@ This process transfers ownership from the seller to the buyer, requiring you to 
 
 Understanding and preparing for closing costs can't be skipped in the home-buying process. By familiarizing yourself with these fees and expenses upfront, you can avoid surprises and ensure a smoother transaction.
 
-If you have questions or are ready to begin the home buying process, just call or email us. We’d love to hear from you!
+If you have questions or are ready to begin the home-buying process, just call or email us. We’d love to hear from you!
