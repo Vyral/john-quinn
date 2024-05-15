@@ -15,7 +15,7 @@ youtube_code: /Q1gLf3Ah5Gs
 ---
 {% include youtube.html %}
 
-You've found your dream home, the seller has accepted your offer, and your loan has been approved. You’re very much excited to prepare to move in, but there's one final step: the closing, also known as the settlement.
+You've found your dream home, the seller has accepted your offer, and your loan has been approved. You’re very excited to prepare to move in, but there's one final step: the closing, also known as the settlement.
 
 This process transfers ownership from the seller to the buyer, requiring you to sign numerous documents and present a check for the down payment and various closing costs. Here's a rundown of the common fees involved:
 
