@@ -17,7 +17,7 @@ youtube_code: BAWU4YVWiTM
 
 {% include excerpt.html %}
 
-Are you thinking about adding some curb appeal to your home before putting it on the market? I've got some fantastic tips that have worked wonders for my clients and will certainly help you too. Let’s dive right into how you can transform your home’s first impression with some simple, yet effective changes.
+Are you thinking about adding some curb appeal to your home before putting it on the market? I've got some fantastic tips that have worked wonders for my clients and will certainly help you, too. Let’s dive right into how you can transform your home’s first impression with some simple yet effective changes.
 
 First off, trimming bushes and branches to ensure they don't block your windows is a needed step. **This not only enhances visibility but also lets more natural light into your home, making it look more welcoming.** Secondly, adding a colorful pot of flowers to the walkway can make a significant difference. It’s a simple touch that adds a splash of color and life to your property.
 
@@ -29,4 +29,4 @@ Moving on, neatly edging the grass around your walkway and trees gives your yard
 
 Consider investing in a new mailbox and doormat to refresh your entrance area. Clean windows inside and out, mow the lawn, and give the entire yard a thorough cleanup to make it sparkle. Lastly, adding a decorative wreath on your front door can create a warm, inviting feel for potential buyers.
 
-With these straightforward enhancements, your home won’t just attract more buyers—it’ll likely sell faster too. If you have any questions about the home selling process or need further advice on preparing your property, please don't hesitate to call or email me today.
+With these straightforward enhancements, your home won’t just attract more buyers—it’ll likely sell faster, too. If you have any questions about the home selling process or need further advice on preparing your property, please don't hesitate to call or email me today.
