@@ -2,7 +2,7 @@
 layout: post
 title: First-Time Homebuyer? Here Are 3 Essential Tips!
 date: 2024-07-26 05:00:00
-excerpt: Learn the key steps to make your home buying journey smooth and successful.
+excerpt: Learn the key steps to make your home-buying journey smooth and successful.
 enclosure:
 pullquote: The more you know, the less stressed you'll be as you go through the process.
 enclosure_type: video/mp4
@@ -25,4 +25,4 @@ As a first-time homebuyer, it's impossible to know everything about purchasing a
 
 **3\. Understand Your Price Range and Monthly Payment:** Calculate your mortgage payment, including principal, interest, taxes, and insurance. Knowing your mortgage rate and budget will allow you to shop for a home and a mortgage with confidence.
 
-By keeping these three things in mind, you can maximize your home buying budget and secure the best mortgage deal for your new home. For any questions, reach out to us at (901) 591-8100 or (901) 685-6000.
+By keeping these three things in mind, you can maximize your home-buying budget and secure the best mortgage deal for your new home. For any questions, reach out to us at (901) 591-8100 or (901) 685-6000.
