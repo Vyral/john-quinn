@@ -6,7 +6,7 @@ tags:
   - Real Estate
 excerpt: From our team to your family, we want to wish you a happy holiday season.
 enclosure:
-pullquote: From our team to your family, we want to wish you a happy holiday season.
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
