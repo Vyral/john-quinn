@@ -13,7 +13,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/at-2.jpg
 youtube_code:
 ---
-{% include pullquote.html %}<br>Happy holidays to you!
+Happy holidays to you!
 
 The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories.
 
