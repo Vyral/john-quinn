@@ -11,8 +11,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/at-2.jpg
-youtube_code:
+youtube_code: wwd6-ouitqQ
 ---
+{% include youtube.html %}
+
+{% include excerpt.html %}
+
 Happy holidays to you!
 
 The holiday season has officially arrived. We hope you enjoy this wonderful time of year and make some fantastic memories.
