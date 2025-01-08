@@ -18,13 +18,13 @@ youtube_code: gwn1fADZ0aY
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 “How is the housing market right now?” I’ve been getting this question a lot recently, and I understand why. This is the time of year when people plan their moves for 2025, but it’s difficult to know what you should do without understanding where the market is at. The truth is that our market can be summed up in one word: Normalization. While the red-hot market of the pandemic is far behind us, the market isn’t heading for a crash anytime soon. Instead, things are balancing out. Here are three things you need to know about our normalizing housing market:
 
 **1\. Competition is increasing.** There are more homes for sale in our current market than there have been for a long time. For buyers, this means more options. If you’ve been frustrated by the lack of options, now might be the time to reenter the market. Meanwhile, sellers need to reset expectations about how long it will take to sell. You can still get a great deal in this market, but your home probably won’t fly off the market like it would have a few years ago.
 
 **2\. Prices are increasing slowly but steadily.** In most markets around the country, prices are still increasing, although it’s at a modest pace. Redfin expects prices to increase by 4% in 2025, which means sellers need to be careful about not overpricing their properties. Prices are increasing, but buyers are savvy enough to know when a property isn’t worth what you’re asking. Meanwhile, buyers can be confident that they will start building equity as soon as they close.
-
-&nbsp;
 
 {% include pullquote.html %}
 
