@@ -23,6 +23,6 @@ If convenience is the priority, **you can close quickly and receive equity in as
 
 {% include pullquote.html %}
 
-With direct access to professional buyer relationships, securing the best possible offer becomes a smooth and stress-free process. A direct offer is also available, eliminating the need for public showings. If the initial price is not satisfactory, negotiations can be pursued for a better offer. This option is also available for those who prefer the traditional selling route.
+**With direct access to professional buyer relationships, securing the best possible offer becomes a smooth and stress-free process.** A direct offer is also available, eliminating the need for public showings. If the initial price is not satisfactory, negotiations can be pursued for a better offer. This option is also available for those who prefer the traditional selling route.
 
 Selling directly provides a quick and stress-free way to sell your home. With no obligations and a free offer request, exploring this option comes at no risk. If you have questions or need guidance, don’t hesitate to reach out. You can call me at **901-591-8100** or send an email to [john@johnquinnteam.com](mailto:john@johnquinnteam.com). I look forward to hearing from you.
