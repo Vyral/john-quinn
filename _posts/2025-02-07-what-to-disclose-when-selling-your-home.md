@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What To Disclose When Selling Your Home
+title: '  What Do Home Sellers Need To Reveal in Disclosures? '
 date: 2025-02-07 00:00:00
 tags:
   - Home Seller Tips
