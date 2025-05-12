@@ -41,4 +41,4 @@ Don’t overlook **down payment assistance programs** either; many state and loc
 
 Student loans don’t mean homeownership is inaccessible to you, but careful financial management is key to making this work. By understanding how lenders assess debt and taking steps to improve your financial profile, you can position yourself for a successful mortgage application.
 
-If you have questions about how your student loans may affect your homebuying options, we at The John Quinn Team can provide clarity and help you develop a strategic plan. Call us anytime at [**<u>901-591-8100</u>**](tel:9015918100 "901-591-8100"){: target="_blank" rel="noopener"} when you’re ready to get started.
+If you have questions about how your student loans may affect your homebuying options, we at The John Quinn Team can provide clarity and help you develop a strategic plan. Call us anytime at [**<u>901-591-8100</u>**](tel:9015818100 "901-581-8100"){: target="_blank" rel="noopener"} when you’re ready to get started.
