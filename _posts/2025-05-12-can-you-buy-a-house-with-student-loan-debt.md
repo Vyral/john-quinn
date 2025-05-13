@@ -31,7 +31,7 @@ While your loans will factor into the equation, they don’t automatically disqu
 
 {% include pullquote.html %}
 
-**Plan your purchase a year in advance** if you’re considering any of the following strategies. It’ll spell the difference between renting indefinitely and owning your dream home.
+You’ll want to **plan your purchase a year in advance** if you’re considering any of the following strategies. It’ll spell the difference between renting indefinitely and owning your dream home.
 
 First and foremost, focus on **reducing your existing student debt**. Even paying down one loan can significantly improve your debt-to-income ratio and potentially boost your credit score.
 
