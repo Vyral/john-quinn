@@ -21,7 +21,7 @@ youtube_code: jCsOTlZmHFA
 
 {% include excerpt.html %}
 
-Let’s face it—selling your home in Spring 2025 isn’t quite like it used to be. Interest rates are still elevated, buyers are pickier, and homes are sitting on the market longer than they did during the peak frenzy of 2021–2022. That doesn’t mean you can’t sell quickly—it just means you have to be more strategic.
+Let’s face it—selling your home in Spring 2025 isn’t quite like it used to be. Interest rates are still elevated, buyers are pickier, and homes are sitting on the market longer than they did during the peak frenzy of 2021 to 2022. That doesn’t mean you can’t sell quickly—it just means you have to be more strategic.
 
 But there’s one thing you can do right now to give yourself a serious edge: Get a pre-listing inspection. It’s simple, affordable, and puts you in the driver’s seat during your sale. Here’s how it works—and why I recommend it to all my sellers this year.
 
