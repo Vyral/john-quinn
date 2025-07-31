@@ -4,6 +4,7 @@ title: Should You Use AI To Price Your Home in 2025?
 date: 2025-07-31 00:00:00
 tags:
   - Real Estate
+  - Home Seller Tips
 excerpt:
 enclosure:
 pullquote:
