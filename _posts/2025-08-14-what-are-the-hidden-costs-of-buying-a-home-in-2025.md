@@ -4,7 +4,10 @@ title: What Are the Hidden Costs of Buying a Home in 2025?
 date: 2025-08-14 00:00:00
 tags:
   - Home Buyer Tips
-excerpt: and how to budget effectively for a smooth closing.
+excerpt: >-
+  From closing costs to HOA fees, hidden fees can affect your home-buying
+  budget. Learn what to expect and how to budget effectively for a smooth
+  closing.
 enclosure:
 pullquote: 'There’s a lot more you need to pay for than just down payment costs. '
 enclosure_type: video/mp4
