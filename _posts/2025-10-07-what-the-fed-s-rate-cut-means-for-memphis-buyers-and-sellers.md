@@ -37,4 +37,4 @@ But here’s the catch: mortgage rates don’t simply mirror the Fed’s moves. 
 
 In short, this is progress, not perfection. The Fed’s cut has offered some relief, but the real story will unfold as inflation and market trends evolve.
 
-If you have questions about buying, refinancing, or planning your next move, reach out to [**(901) 581-8100**](tel:9015818100){: target="_blank" rel="noopener"} ** ** or visit [**www.johnquinnrealestate.com**](http://www.johnquinnrealestate.com){: target="_blank" rel="noopener"}**.** I’m here to guide you through the options.
+If you have questions about buying, refinancing, or planning your next move, reach out to [**(901) 581-8100**](tel:9015818100){: target="_blank" rel="noopener"} \*\* \*\* or visit [**www.johnquinnrealestate.com**](http://www.johnquinnrealestate.com){: target="_blank" rel="noopener"}**.** I’m here to guide you through the options.
