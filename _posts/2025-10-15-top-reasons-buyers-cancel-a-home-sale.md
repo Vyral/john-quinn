@@ -17,9 +17,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/top-reasons-buyers-cancel-a-home-sale-5.jpg
 youtube_code: E8MoYzjQ9Yk
 ---
-{% include excerpt.html %}
-
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 Getting an offer on your home is a big moment. It feels like the finish line is finally in sight. But here’s the truth: an accepted contract doesn’t guarantee a smooth path to closing.
 
