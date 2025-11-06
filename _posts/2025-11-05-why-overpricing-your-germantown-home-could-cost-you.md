@@ -17,9 +17,9 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/why-overpricing-your-germantown-home-could-cost-you.jpg
 youtube_code: PIzhGSOiV6s
 ---
-{% include excerpt.html %}
-
 {% include youtube.html %}
+
+{% include excerpt.html %}
 
 Are you wondering why your Germantown home isn’t getting much attention? The truth is that overpricing is one of the biggest reasons listings sit on the market for an extended period.
 
@@ -53,5 +53,3 @@ A strong pricing strategy should be grounded in:
 Aligning your price with real market data attracts the right buyers, faster offers, and stronger negotiations. Don’t let overpricing cause you to lose valuable time and money.
 
 If you’re planning to sell your home, now is the perfect time. Call or text today to get started: (Direct) [**(901) 591-8100**](tel:9015918100){: target="_blank" rel="noopener"} or (Main) [**(901) 685-6000**](tel:9016856000){: target="_blank" rel="noopener"}. I’ll help you determine your home’s accurate market value and show you exactly how to position it for a fast, profitable sale.
-
-&nbsp;
