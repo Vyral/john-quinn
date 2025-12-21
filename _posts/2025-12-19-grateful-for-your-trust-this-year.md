@@ -27,6 +27,6 @@ The best part of this work is the community we build along the way, and you’re
 
 Here’s to a new year full of smart, confident moves and exciting possibilities. Wishing you and your loved ones a season of joy, peace, and the comfort of home.
 
-**Happy Holidays and Happy New Year!**
+**Merry Christmas and Happy New Year!**
 
 John Quinn
