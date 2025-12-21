@@ -15,7 +15,7 @@ youtube_code: gVJOgTLg1Eo
 ---
 {% include youtube.html %}
 
-{% include pullquote.html %}
+{% include excerpt.html %}
 
 Every home tells a story, and every move is a milestone.
 
