@@ -20,6 +20,8 @@ youtube_code: FxdjMmM2T_0
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 If you’re thinking about buying, selling, refinancing, or even staying put this year, the 2026 housing market affects you. Just last week, I met with a couple trying to decide whether to move or refinance. They’d been watching the news, but every headline seemed to say something different.
 
 So, before you make any decisions, here are the four things you really need to know, based on what I’m seeing, hearing, and helping clients navigate every day.
@@ -38,7 +40,7 @@ We’re not going back to 3% rates, but the pressure is easing.
 
 **2\. Inventory is growing.** Realtor.com expects [for-sale inventory to rise nearly 9%](https://www.realtor.com/news/trends/housing-forecast-2026-mortgage-rates-affordability-improves/){: target="_blank" rel="noopener"} in 2026, which means more choices for buyers and a more predictable landscape for sellers.
 
-{% include youtube.html %}
+{% include pullquote.html %}
 
 However, this increase will not be evenly distributed. Some regions will still face tight supply, while others will move toward a more balanced market. For many people, this will be the first year where local conditions matter far more than national headlines.
 
@@ -69,5 +71,3 @@ After several years of uncertainty and constant shifts, the 2026 housing market 
 If you want a personalized breakdown of how these trends apply to your neighborhood, I’m here to help. Whether you’re buying, selling, refinancing, or planning ahead, we can walk through your options so you feel confident about your next move.
 
 Feel free to call, text, or email me to schedule a free one-on-one strategy call. We’ll look at your numbers, your timing, and your local market so you feel confident about the road ahead.
-
-{% include pullquote.html %}
