@@ -34,7 +34,7 @@ Curb appeal is also important. Mow the lawn, trim the bushes, plant some flowers
 
 {% include pullquote.html %}
 
-**3\. Stage the home.** Staging your home helps buyers see its potential. ** ** You don’t have to hire a professional, although it can help. At a minimum, rearrange furniture so the flow and functionality of each room are clear. If your furniture is outdated, renting modern, neutral pieces can make a space feel fresh.
+**3\. Stage the home.** Staging your home helps buyers see its potential. You don’t have to hire a professional, although it can help. At a minimum, rearrange furniture so the flow and functionality of each room are clear. If your furniture is outdated, renting modern, neutral pieces can make a space feel fresh.
 
 Use light, neutral colors whenever possible, and make sure the home is well-lit. A bright, inviting space feels larger and more welcoming. Good staging helps buyers imagine themselves living in your home and increases their interest.
 
