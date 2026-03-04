@@ -18,34 +18,42 @@ youtube_code: JU40HEeu2eA
 
 {% include excerpt.html %}
 
-What small details could make or break a buyer’s first impression of your home? Selling your home is exciting, but it also takes preparation. Before you list, making sure your home is market-ready is key to attracting serious buyers and getting the best price. With the right steps, you can make your home stand out, sell faster, and even enjoy the process.
+If you’re thinking about selling a home in Memphis, Tennessee, there’s a crucial question many homeowners overlook: How much will I actually walk away with after the sale?
 
-Here’s how to get started.
+Many people focus solely on the listing price, assuming that a strong sale automatically means a strong payout. In reality, the number you see on paper often doesn’t match what ends up in your pocket, thanks to commissions, repairs, closing costs, and potential taxes.
 
-**1\. Clean and declutter.** This first step is simple but powerful. Buyers need to picture themselves living in the space, and that is hard to do if there is clutter or too many personal items around. Start by removing extra furniture and personal photos. Make sure surfaces, carpets, and windows are spotless so your home looks fresh and inviting.
+Selling a home in Memphis can absolutely be profitable, especially in well-positioned neighborhoods, but it’s not free. Being prepared gives you more control over your final numbers. Here’s a breakdown of the most important costs to consider.
 
-If you can, hire a professional cleaner or organizer. This small investment can make a huge difference and really help your home stand out.
+**1\. Real estate commissions.** For most Memphis home sales, real estate commissions are the largest expense. Commissions typically range from 5% to 7% of the sales price and are split between the listing agent and the buyer’s agent. On a $350,000 home, this could amount to $17,000 to $21,000.
 
-**2\. Make your home move-in ready.** Take a good look at both the inside and outside of your home. Fix minor repairs like leaky faucets, cracked tiles, or peeling paint. These small fixes show buyers that your home has been cared for.
-
-Curb appeal is also important. Mow the lawn, trim the bushes, plant some flowers, and freshen up the front door with a coat of paint. Even cleaning your driveway or patio can make a big difference. You might also consider a pre-inspection to catch any issues before buyers do. When your home feels ready to move into, it attracts more serious offers.
+While commissions may feel like a big number, they cover essential services such as pricing strategy, professional marketing, negotiation, transaction management, and risk protection. Make sure you know how this cost affects what you actually walk away with before you put your home on the market.
 
 {% include pullquote.html %}
 
-**3\. Stage the home.** Staging your home helps buyers see its potential. You don’t have to hire a professional, although it can help. At a minimum, rearrange furniture so the flow and functionality of each room are clear. If your furniture is outdated, renting modern, neutral pieces can make a space feel fresh.
+**2\. Pre-sale repairs and preparation.** Even in a steady Memphis market, most homes need a bit of work to get ready before hitting the market. Preparation costs can include:
 
-Use light, neutral colors whenever possible, and make sure the home is well-lit. A bright, inviting space feels larger and more welcoming. Good staging helps buyers imagine themselves living in your home and increases their interest.
+* Painting
+* Landscaping
+* Pressure washing
+* Minor repairs
+* Professional cleaning
+* Staging and photography
+* Pre-listing inspection (depending on the property)
 
-**4\. Price correctly.** Once your home is looking great, pricing it right is the most important step. If the price is too high, buyers may pass it over. If it is too low, you won’t get the full value of your home.
+Sellers can end up spending anywhere from a few thousand dollars to $15,000 or more getting their home ready. The key isn’t to over-improve, but to make smart, strategic updates that attract strong offers and cut down on inspection issues. When done right, preparing your home can boost what you actually walk away with. Done without a plan, it can quietly eat into your profits.
 
-**5\. Partner with a real estate agent.** Preparing, staging, and pricing your home all work best when they are guided by the right professional. A good real estate agent helps you decide which updates matter most, where to focus your time and money, and how to position your home to attract the strongest buyers.
+**3\. Closing costs and seller expenses.** Many home sellers in Memphis are surprised to learn they have to pay part of the closing costs. These can include things like the home’s title insurance, fees for handling the sale, property taxes, and any homeowners’ association fees if your neighborhood has one.
 
-Beyond preparation, an experienced agent manages marketing, showings, feedback, and negotiations, while keeping the process on track and reducing stress. They advocate for you at every step and help protect your bottom line.
+On top of that, buyers may ask for repairs to be covered or for help with some of the closing costs after an inspection. These costs come straight out of what you earn from the sale, which is why it’s important to plan your asking price carefully and be ready to negotiate.
 
-A local real estate expert can also help you analyze recent sales, market trends, and buyer demand to set a competitive price. Knowing your neighborhood and the current market is key to getting the best return.
+**4\. Property taxes and capital gains.** Tennessee doesn’t have a state income tax, which is good news for homeowners. But you might still owe federal taxes on the profit from selling your home, depending on your situation.
 
-When your home is well-prepared, priced strategically, and supported by a knowledgeable local agent, you put yourself in the strongest position for a successful sale.
+If this has been your main home for at least two of the last five years, you may be able to exclude some of that profit from taxes. But if it’s an investment property or you’ve owned it a long time and its value has gone up a lot, taxes could take a bigger bite out of what you make.
 
-With the right strategy, some simple updates, and smart staging, the process can be smooth and even enjoyable. If you’re ready to get started or have questions about pricing, staging, or marketing, give me a call or send me a message.
+Talking with a tax professional before you sell can help you plan and ensure you keep as much of your money as possible.
 
-Let’s get your home sold for the best price in the shortest amount of time.
+**5\. Net proceeds.** The biggest mistake many Memphis sellers make is focusing only on the sales price. Just because a home has a higher listing price doesn’t mean you’ll take home more money. Repairs, credits, commissions, and taxes all affect what you actually end up with.
+
+Smart sellers think about how much they want to walk away with first, then work backward to set the right price. Running a realistic estimate of your net proceeds before listing helps you know what to expect and avoids surprises at closing.
+
+If you want a clear breakdown of your real costs, an estimate of what you’ll actually take home, and a plan to protect your money instead of just looking at the sales price, reach out to [**(901) 591-8100**](tel:9015918100){: target="_blank" rel="noopener"}**,** [**john@johnquinnteam.com**](mailto:john@johnquinnteam.com){: target="_blank" rel="noopener"}, or visit [**www.johnquinnrealestate.com**](http://www.johnquinnrealestate.com){: target="_blank" rel="noopener"}. I’d be happy to guide you through every step of the process.
