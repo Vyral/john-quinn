@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-can-i-buy-a-home-before-selling-my-current-one-2.jpg
-youtube_code: gBGRQzr4Oyg
+youtube_code: KI_Q60oz8VU
 ---
 {% include youtube.html %}
 
