@@ -30,7 +30,7 @@ Here are three things you can do right now to make your home show at its best.
 
 Loose doorknobs, sticky doors, dripping faucets, burned-out bulbs, cracked outlet covers, slow drains. These are the details that buyers notice immediately, and when the small things feel neglected, they start wondering what else has been ignored.
 
-&quot;Fine&quot; doesn't get the offer. {: .pullquote }
+<a href="https://twitter.com/home/?status={{page.pullquote}}%20{{site.url}}{{page.url}}%20via%40{{site.data.settings.socials.twitter | remove: 'https://twitter.com/'}}" target='_blank' class="pullquote">&#8220;&quot;Fine&quot; doesn't get the offer.&#8221;</a>
 
 These are cheap, fast fixes. A trip to the hardware store and an afternoon of your time can completely change how your home is perceived. A home that feels well-maintained gives buyers a reason to keep looking. A home that feels neglected gives them a reason to leave.
 
