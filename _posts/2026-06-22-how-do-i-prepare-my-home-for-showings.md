@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/how-do-i-prepare-my-home-for-showings-2.jpg
-youtube_code: 6HrDHjC7fmY
+youtube_code: Mh0d5yr8VGg
 ---
 {% include youtube.html %}
 
