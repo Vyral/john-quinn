@@ -13,7 +13,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/how-long-will-it-actually-take-to-sell-your-home-right-now-2.jpg
+youtube_alternate_image:
 youtube_code: pyYYhdf1_tg
 ---
 {% include youtube.html %}
