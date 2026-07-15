@@ -30,7 +30,7 @@ Here's what actually determines your timeline.
 
 **Pricing is the single biggest factor.** Nothing affects your days on the market more than your asking price. A home priced right for its condition and location generates the most interest in the first 7 to 14 days. That's when buyer activity peaks. Every agent notices the new listing. Every buyer who's been searching sees it hit their feed. If the price matches what the market says the home is worth, showings come fast, and offers follow.
 
-&lt;a href=”https://twitter.com/home/?status={{page.pullquote}}%20{{site.url}}{{page.url}}%20via%40{{site.data.settings.socials.twitter | remove: 'https://twitter.com/'}}” target=’\_blank’ class=”pullquote”&gt;“ "Fine" doesn’t get the offer. ”&lt;/a&gt;
+{% include pullquote.html %}
 
 When a home is overpriced, even by 5% to 10%, the opposite happens. Buyers scroll past it. Agents skip it. The critical first two weeks pass without strong activity, and now the seller is chasing the market. Every price reduction after that point resets the clock, and buyers start wondering what's wrong with the house. Homes that sell quickly tend to close at or near the asking price. [Homes that sit past 60 days typically sell for less](https://www.redfin.com/blog/days-on-market-real-estate/) than they would have if priced correctly from the start. Overpricing doesn't just cost time. It costs money.
 
