@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/the-honest-truth-about-getting-rich-in-real-estate-2.jpg
-youtube_code: 8AUdQlwOmWQ
+youtube_code: H3jeSKxl_xU
 ---
 {% include youtube.html %}
 
